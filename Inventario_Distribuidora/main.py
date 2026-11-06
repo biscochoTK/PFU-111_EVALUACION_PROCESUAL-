@@ -27,14 +27,11 @@ def registrar_producto():
 
 # FUNCION PARA MOSTRAR EL MENU
 def mostrar_menu():
-    print("\n================================")
     print("     SISTEMA DE INVENTARIO")
-    print("================================")
     print("1. Registrar producto")
     print("2. Consultar productos")
     print("3. Actualizar producto")
     print("4. Salir")
-    print("================================")
 
 
 # FUNCION PRINCIPAL
