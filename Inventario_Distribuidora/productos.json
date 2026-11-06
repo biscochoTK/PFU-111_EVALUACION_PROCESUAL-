@@ -1,0 +1,21 @@
+ 
+[
+    {
+        "codigo": "PROD-001",
+        "nombre": "Teclado Logitech",
+        "precio": 150.00,
+        "cantidad": 20
+    },
+    {
+        "codigo": "PROD-002",
+        "nombre": "Mouse Logitech",
+        "precio": 80.00,
+        "cantidad": 15
+    },
+    {
+        "codigo": "PROD-003",
+        "nombre": "Monitor Samsung",
+        "precio": 1200.00,
+        "cantidad": 10
+    }
+]
